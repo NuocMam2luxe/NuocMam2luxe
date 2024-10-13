@@ -1,0 +1,37 @@
+- Crée un gestionnaire de sauvegardes en SQL qui serait suffisemmant dynamique pour pouvoir gérer différents fichiers SQL
+
+- Crée une zone de danger, si les Skibidis la touche, on pert une certaine quantitée d'hp, qui dépend des hp restants du skibidi
+
+- Crée des ennemis qui drop de l'argent ou autre monnaie virtuelle pour acheter d'autres "Towers" ou des armes voir même des upgrades
+pour les Tower, a prévoir alors plusieurs sprites pour les différents niveaux
+
+- Crée un Shop avec une interface User Friendly avec laquelle il suffirait de simplement cliquer dessus pour intéragir
+
+- Faire une mécanique de jeux où certains ennemies requiert certaines tourelles (comme par exemple des phantomes où des skibidi prêtres seulement pourrait les attaquer)
+Ou alors des Skibidi Lave où il faudrais avoir des tourelles avec un élément "eau" pour les refroidir et les transformer en obsidienne, ce qui les rendrait plus résistant mais 
+plus lent qu'avant, pour que ça reste balanced
+
+- Un OST custom (Que Yannis peux faire grâçe a ses talents de compositeur)
+
+- Un Final boss ( lonni ) qui demanderais des QTE (Quick Time Events) où écrire rapidement les mots qui s'affichent a l'écran font + de dégâts
+
+Optionnel (- Faire une vidéo pour un Didactitiel sur comment jouer au cas où on serait débutant au jeux)
+Optionnel (- Ajouter des Easter Eggs)
+Optionnel (- Transformer le projet en .exe pour pouvoir le lancer sur n'importe quel machine)
+
+ ////////////// A FAIRE ABSOLUMENT /////////////// 
+ //                                             //  
+ //   FAIRE UN JEU BEAU / AGREABLE A REGARDER   // 
+ //     PAS DE JEU DEGEULASSE FAUT QUE CA       // 
+ //       SOIT UN MINIMUM BEAU SINON ON         // 
+ //         VA JAMAIS COMPRENDRE CE             //
+ //             QU'IL SE PASSE                  // 
+ //                                             //  
+ ////////////// A FAIRE ABSOLUMENT ///////////////
+
+Aide Tkinter : https://docs.google.com/document/d/10rX6w3eKWqE2eIUNa4P8RCZWNRtnjaQxs76oPyAuOiM/edit?usp=sharing
+
+
+aide cre jeu python( https://www.youtube.com/watch?v=ooITOxbYVTo )
+C'est le crazy skibidi ohyo rizz
+kkk
